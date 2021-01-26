@@ -10,4 +10,4 @@
 
 ## 使用(CLI)
 
-Nosopa <Name>
+Nosopa Name

@@ -1,0 +1,8 @@
+*.exe
+*.obj
+Nosopa/bin
+Nosopa/obj
+Nosopa/NosopaGUI/bin
+Nosopa/NosopaGUI/obj
+Nosopa/NosopaLibrary/bin
+Nosopa/NosopaLibrary/obj
