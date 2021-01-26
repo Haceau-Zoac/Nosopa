@@ -8,6 +8,6 @@
 
 以 GPLv3 协议开源！
 
-## 使用
+## 使用(CLI)
 
 Nosopa <Name>
